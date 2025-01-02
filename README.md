@@ -1,5 +1,7 @@
 <h1>Hi, I'm Josue, an <a href="https://linkedin.com/in/josue-vazquez-tech">IT Professional</a>☺</h1>
 
+![r3r3r3r3r](https://github.com/user-attachments/assets/f4a2735f-d242-4ff9-90da-fe710641d9d1)
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <summary><img width="150" alt="Ost Ticket Logo" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/ff860958-dce6-4a33-bd35-34c697e006e4"/></summary>
