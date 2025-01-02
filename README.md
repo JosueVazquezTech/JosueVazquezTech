@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josue, an <a href="https://linkedin.com/in/josue-vazquez-tech">IT Professional<//h1>
+<h1>Hi, I'm Josue, an <a href="https://linkedin.com/in/josue-vazquez-tech">IT Professional.<//h1>
 
 
 
