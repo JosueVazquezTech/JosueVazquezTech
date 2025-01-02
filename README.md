@@ -1,6 +1,6 @@
-<h1>Hi, I'm Josue, an <a href="https://linkedin.com/in/josue-vazquez-tech">IT Professional</a>☺</h1>
+<h1>Hi, I'm Josue, an <a href="https://linkedin.com/in/josue-vazquez-tech">IT Professional<//h1>
 
-![r3r3r3r3r](https://github.com/user-attachments/assets/f4a2735f-d242-4ff9-90da-fe710641d9d1)
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
