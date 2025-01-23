@@ -12,7 +12,7 @@
 - <summary><img width="200" alt="Microsoft Azure Logo" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/4efd69b2-7308-40cb-b48d-5e726610d472"/>
   
   - [Creating Virtual Machines with Azure](https://github.com/JosueVazquezTech/Azure-VM-setup-)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Setting up Active Directory infrastructure in Azure]( )
 
 <h2>🤳Connect with me:</h2>
 
