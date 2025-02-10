@@ -3,16 +3,12 @@
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-
-- <summary><img width="150" alt="Ost Ticket Logo" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/ff860958-dce6-4a33-bd35-34c697e006e4"/></summary>
-
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+ 
 - <summary><img width="200" alt="Microsoft Azure Logo" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/4efd69b2-7308-40cb-b48d-5e726610d472"/>
   
   - [Creating Virtual Machines with Azure](https://github.com/JosueVazquezTech/Azure-VM-setup-)
   - [Setting up Active Directory infrastructure in Azure](https://github.com/JosueVazquezTech/ADsetup)
+  - [Installing Active Directory](https://github.com/JosueVazquezTech/ADsetup)
 
 <h2>🤳Connect with me:</h2>
 
