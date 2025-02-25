@@ -8,7 +8,8 @@
   
   - [Creating Virtual Machines with Azure](https://github.com/JosueVazquezTech/Azure-VM-setup-)
   - [Setting up Active Directory infrastructure in Azure](https://github.com/JosueVazquezTech/ADsetup)
-  - [Installing and Testing Active Directory](https://github.com/JosueVazquezTech/AD-Installation-and-testing)
+  - [Deploying Active Directory](https://github.com/JosueVazquezTech/AD-Installation-and-testing)
+  - [Group Policy and Managing Accounts](https://github.com/JosueVazquezTech/AD-Installation-and-testing)
 
 <h2>🤳Connect with me:</h2>
 
