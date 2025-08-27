@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
  
-- <summary><img width="200" alt="Microsoft Azure Logo" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/4efd69b2-7308-40cb-b48d-5e726610d472"/>
+- <summary><img width="300" alt="Microsoft Azure Logo" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/4efd69b2-7308-40cb-b48d-5e726610d472"/>
   
   - [Creating Virtual Machines with Azure](https://github.com/JosueVazquezTech/Azure-VM-setup-)
   - [Setting up Active Directory infrastructure in Azure](https://github.com/JosueVazquezTech/ADsetup)
