@@ -15,7 +15,7 @@
 
 
 
-[<img align="left" alt="Josue | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="Josue | LinkedIn" width="50px" src="https://github.com/user-attachments/assets/8f843416-beaa-40f8-a76b-a9d20dca80c9" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/Josue-vazquez-tech
